@@ -1,4 +1,15 @@
-<!doctype html>
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
+</html>
+
+
+
+/*<!doctype html>
 <html>
   <head>
     <meta charset="uft-8"/>
@@ -9,3 +20,4 @@
     Mi primera página en HTML.
   </body>
 </html>
+*/
