@@ -1,8 +1,11 @@
+<!doctype html>
 <html>
- <head>
-  <title>Prueba de PHP</title>
- </head>
- <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
- </body>
+  <head>
+    <meta charset="uft-8"/>
+    <title>Hola Mundo en HTML</title>
+  </head>
+  <body>
+    <h1>Hola Mundo</h1>
+    Mi primera página en HTML.
+  </body>
 </html>
